@@ -1,0 +1,15 @@
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/bin/Debug/net6.0/homework2
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/bin/Debug/net6.0/homework2.deps.json
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/bin/Debug/net6.0/homework2.runtimeconfig.json
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/bin/Debug/net6.0/homework2.dll
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/bin/Debug/net6.0/homework2.pdb
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/obj/Debug/net6.0/homework2.csproj.AssemblyReference.cache
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/obj/Debug/net6.0/homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/obj/Debug/net6.0/homework2.AssemblyInfoInputs.cache
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/obj/Debug/net6.0/homework2.AssemblyInfo.cs
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/obj/Debug/net6.0/homework2.csproj.CoreCompileInputs.cache
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/obj/Debug/net6.0/homework2.dll
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/obj/Debug/net6.0/refint/homework2.dll
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/obj/Debug/net6.0/homework2.pdb
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/obj/Debug/net6.0/homework2.genruntimeconfig.cache
+/Users/dmitrijbelkovskij/Desktop/C#/homework2/obj/Debug/net6.0/ref/homework2.dll
